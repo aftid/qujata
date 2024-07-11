@@ -21,7 +21,7 @@ There are several ways you can contribute to Qujata:
 
 ### Suggesting New Features or Improvements
 
-- Check the [Issues](https://github.com/atisorg/qujata/issues page to see if someone else has already suggested the same feature or improvement.
+- Check the [Issues](https://github.com/atisorg/qujata/issues) page to see if someone else has already suggested the same feature or improvement.
 - If it hasn't been suggested, create a new issue with a clear title and description. Explain why the feature or improvement would be beneficial and how it can be implemented.
 
 ### Submitting Code Changes
