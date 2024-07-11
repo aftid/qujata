@@ -1,6 +1,3 @@
-<img src="https://github.com/att/qujata/assets/7979328/199a9c84-840b-415e-a221-621c22184ad2" width="150">
-
-
 # Table of Contents
 
 - [**Overview**](#overview)
@@ -148,10 +145,6 @@ In order to install and run the various components in development mode, see thes
 1. [Portal](https://github.com/atisorg/qujata/tree/main/portal/README.md)
 2. [Api](https://github.com/atisorg/qujata/tree/main/api/README.md)
 3. [Curl](https://github.com/atisorg/qujata/tree/main/curl/README.md)
-
-For UI development contributors, please find below our current UI/UX design.
-Suggestions for improvement are always welcome.
-[Qujata_Wireframes.pdf](https://github.com/user-attachments/files/15531891/Qujata_Wireframes.pdf)
 
 
 # Project Roadmap and Architecture
